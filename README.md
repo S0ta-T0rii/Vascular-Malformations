@@ -26,10 +26,7 @@ Congenital vascular malformations, affecting 0.5% of the population, often occur
 
 ## 📁 Repository Contents
 
-- Preprocessing and visualization of **scRNA-seq** and **spatial transcriptomics** data  
-- Mouse endothelial lineage tracing analysis  
-- Analytical pipelines for **PI3K/Akt pathway** signaling studies  
-- 🖼Visualization scripts for figure generation
+- Codes for single-cell RNA-seq analysis using Seurat (R) and scVelo (Python)
 
 ---
 
